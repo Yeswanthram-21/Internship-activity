@@ -7,7 +7,7 @@ Internship activity - <Day 27>
   Author:YESWANTHRAM R 
 
 Q4.write a c++ program for
-create structure student perform activities using class.
+create student details class perform activities using vector.
 
 
 */
